@@ -25,7 +25,7 @@ const EMPTY_EDIT: EditableStudent = {
   grade: "",
   section: "",
   phone: "",
-  institution_name: "مؤسسة ملتقى العلم والدين",
+  institution_name: "مؤسسة الزهراء للتنمية الاجتماعية",
 };
 
 function formatDate(value: string) {
